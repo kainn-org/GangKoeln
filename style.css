@@ -1,5 +1,4 @@
 body{
-    color: blueviolet;
     background-color: rgb(24,24,24);
     font-family: "Bahnschrift";
     margin: unset;
@@ -33,6 +32,14 @@ h1{
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+#login{
+    margin-top: 100px;
+    background: gray;
+    width: 300px;
+    padding: 50px;
+
 }
 
 #member-list{
